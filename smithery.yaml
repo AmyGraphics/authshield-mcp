@@ -1,0 +1,21 @@
+name: authshield-mcp
+displayName: AuthShield - OAuth2, JWT Security & RBAC Access Control MCP
+description: Universal authentication & security engineering engine for Cursor, Claude & Windsurf. Generates production OAuth2/OIDC flows with PKCE, audits JWT tokens for cryptographic vulnerabilities, builds multi-tenant RBAC matrices, and provisions secure API key architectures.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/authshield-mcp
+repository: https://github.com/AmyGraphics/authshield-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/authshield-mcp/main/icon.png
+keywords:
+  - authentication
+  - oauth2
+  - oidc
+  - jwt-security
+  - rbac
+  - api-keys
+  - cybersecurity
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://authshield-api.agentweb-hub.workers.dev/mcp

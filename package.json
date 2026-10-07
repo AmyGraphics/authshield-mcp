@@ -1,0 +1,9 @@
+{
+  "name": "authshield-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous Authentication, OAuth2/OIDC Architect, JWT Security Auditor & RBAC Engine MCP for Cursor, Claude & Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
