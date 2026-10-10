@@ -12,7 +12,7 @@ Universal Autonomous Authentication, OAuth2/OIDC Flow Architect, JWT Security Au
 `https://authshield-api.agentweb-hub.workers.dev/mcp`
 
 
-## 🔴 NEW in v1.1 — Live Tool: `audit_password_strength`
+## 🔴 NEW in v1.1 — Live Tool: `auth.audit_password`
 
 Audits any password with REAL local computation: charset-pool entropy in bits, pattern detection (common passwords with leet normalization, sequences, keyboard walks, years, repeats), and realistic crack-time estimates at three attacker speeds. Runs entirely in-memory — nothing stored, logged, or transmitted.
 
